@@ -1,19 +1,7 @@
 # Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) 
 
 ## Description
-A clean, beautiful, and responsive portfolio template for developers.
+Mon premier portfolio, basé sur le modèle de Saad Pasta. Il sera temporaire, le temps de créer un portfolio plus personnel.
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Deployment](#deployment)
-- [License](#license)
-
-## Installation
-To get started, clone the repository and install the dependencies:
-
-```bash
-git clone https://github.com/saadpasta/developerFolio.git
-cd developerFolio
-npm install
+## Deployment 📦
+This project is licensed under the GPL-3.0 License. See the LICENSE file for details.
