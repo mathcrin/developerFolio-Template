@@ -23,7 +23,7 @@ const greeting = {
   username: "Mathis Crinchon",
   title: "Salut, c'est Mathis",
   subTitle: emoji(
-    "Un développeur Full Stack passionné par la recherche 🚀 ayant de l'expérience dans les applications Backend et Web avec Java / Python / Reactjs / Angular / Spring Boot"
+    "Un développeur Backend passionné par la recherche 🚀 ayant de l'expérience dans les applications Backend et Web avec Java / Python / Reactjs / Angular / Spring Boot"
   ),
   resumeLink:
     "https://drive.google.com/file/d/1GZkvcQghM9KlOyFhl1V0Ndx0sDNEOFA-/view?usp=sharing", // Set to empty to hide the button
@@ -363,7 +363,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Me contacter ☎️"),
   subtitle:
-    "Ouvert pour des opportunités de stage de recherche ainsi que des sujets de thèse. N'hésitez pas à me contacter",
+    "Ouvert pour des opportunités de stage de recherche a partir de Mars 2025 ainsi que des sujets de thèse. N'hésitez pas à me contacter",
   number: "+33 07 82 86 79 20",
   email_address: "mathcrin@gmail.com"
 };
